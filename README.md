@@ -1,2 +1,24 @@
-# Vue-
-用户通过登录和注册，进入主页浏览商品信息或者分类浏览，可搜索想要的商品并按价格升序降序，对满意的商品加入购物车或者立即购买；管理者可通过后台管理商品信息和用户购买信息
+# demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
